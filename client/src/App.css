@@ -1,6 +1,10 @@
+body{
+    overflow :scroll;
+}
+
 
 table{
-    width: 70%;
+    width: 70vw;
     padding: 10px;
     margin: 0px auto;
 }
